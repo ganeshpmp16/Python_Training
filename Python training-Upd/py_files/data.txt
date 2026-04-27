@@ -1,0 +1,3 @@
+This is an example of writing to a file in Python.
+You can write multiple lines to the file.
+This file is created using the 'with' statement, which ensures proper resource management.
